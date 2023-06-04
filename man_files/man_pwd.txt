@@ -1,0 +1,15 @@
+QUARTZ                                    SHELL OF QARTH COMMAND MANUAL                                      
+
+NAME
+	quartz -- print name of current/working directory
+
+SYNOPSIS
+	quartz
+
+DESCRIPTION
+	This manual page documents version 1.0.0 of the quartz command.
+
+	Print the full filename of the current working directory
+
+AUTHOR
+	Aayush Patney

@@ -1,0 +1,20 @@
+PERIDOT						SHELL OF QARTH COMMAND MANUAL							
+
+NAME
+	peridot — lists all open files in a directory, with PID and name of process
+
+SYNOPSIS
+	peridot
+	peridot [DIR_PATH] 
+	peridot [--help]
+
+DESCRIPTION
+	This manual page documents version 1.0.0 of the peridot command. 
+
+	Prints all the files that are already opened by another process in the given directory, or current working directory
+    PID of the process that opened the file, and name of the opening process will be printed in console.
+
+	If a directory with the given path is not found, an error message is printed.
+
+AUTHOR
+	Aayush Patney

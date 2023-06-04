@@ -1,0 +1,20 @@
+SAPPHIRE						SHELL OF QARTH COMMAND MANUAL							
+
+NAME
+	sapphire — concatenates files and prints as output
+
+SYNOPSIS
+	sapphire [>][FILENAME][>>FILENAME2] 
+	sapphire [--help]
+
+DESCRIPTION
+	This manual page documents version 1.0.0 of the sapphire command. 
+
+	Usage 1: contents of file is printed on standard output
+	Usage 2: input from user is appended to file
+	Usage 3: contents of file1 is appended to file2
+
+	If a file with the given file name is not found, an error message is printed.
+
+AUTHOR
+	Darshan K S

@@ -1,0 +1,16 @@
+TURQUOISE						SHELL OF QARTH COMMAND MANUAL							
+
+NAME
+	turquoise -- check text file for spelling mistakes
+
+SYNOPSIS
+	turquoise FILE_NAME
+	turquoise [--help]
+
+DESCRIPTION
+	This manual page documents version 1.0.0 of the turquoise command.
+
+	Check the text file for any spelling mistakes made. If found, report the mistake made and provide a suggestion
+
+AUTHOR
+	Darshan K S

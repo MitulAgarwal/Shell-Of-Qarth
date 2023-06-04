@@ -1,0 +1,16 @@
+TOPAZ                        SHELL OF QARTH COMMAND MANUAL                                       
+
+NAME
+	topaz -- remove a directory
+
+SYNOPSIS
+	topaz PARENT_DIRECTORY DIRECTORY_NAME
+	topaz [--help]
+
+DESCRIPTION
+	This manual page documents version 1.0.0 of the topaz command.
+
+	Remove a directory in the PARENT_DIRECTORY with the name DIRECTORY_NAME, if they exist
+
+AUTHOR
+	Samir Kurup
