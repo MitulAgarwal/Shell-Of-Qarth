@@ -40,8 +40,8 @@ Congratulations! You have successfully run the Shell of Qarth!
 
 # Contributors
 The Shell of Qarth was built by a team of five people including 
-[Mitul Agarwal](https://github.com/MitulAgarwal)
-[Darshan K S](https://github.com/darshan-k-s)
-[Aayush Patney](https://github.com/aayushxx9302)
-Pushkar Anand
+[Mitul Agarwal](https://github.com/MitulAgarwal),
+[Darshan K S](https://github.com/darshan-k-s),
+[Aayush Patney](https://github.com/aayushxx9302),
+Pushkar Anand and
 Samir Kurup
